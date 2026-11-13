@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Khouloud! 👋
+🎓 Computer Science Student - Tunsia 
 
-<!--
-**khouloudm7/khouloudm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+* I'm a computer science student interested in software development.
+* Currently learning and improving my programming skills.
+* Interested in Web and Mobile Development, Software Engineering and Artificial Intelligence.
+* Always curious to learn new technologies and build useful projects.
 
-Here are some ideas to get you started:
+Technical Skills
+* Programming Languages: Java, Python, JavaScript, TypeScript, C, C++, Dart
+* Web & Mobile Development: React.js, Angular, Spring Boot, Node.js, FastAPI, Flutter, REST APIs
+* Databases: MySQL, PostgreSQL, MongoDB, Cassandra, Firebase
+* Artificial Intelligence: RAG, Expert Systems, Chatbots, Natural Language Processing (NLP)
+* Tools & Platforms: Git, Docker, Swagger, Postman, Keycloak, Camunda 8, Grafana, GLPI, Prometheus, MinIO, Elasticsearch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+* LinkedIn: www.linkedin.com/in/khouloud-mathlouthi-bb8b32218
+* Email: kmathlouthi07@gmail.com
